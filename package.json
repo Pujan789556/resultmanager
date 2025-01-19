@@ -1,0 +1,11 @@
+{
+  "name": "resultmanager",
+  "version": "1.0.0",
+  "description": "Api for tool to generate and manage results of students",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
